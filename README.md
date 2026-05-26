@@ -69,7 +69,9 @@ This project successfully shifted the analysis of card pull rates from raw guess
 * **The Verdict on Luck:** By comparing personal hit percentages directly against the baseline box averages, the data demonstrates exactly where variance swung in my favor (high-rolling specific top-tier slots) and where the distribution matched the expected average / guarantees.
 * **Technical Success:** Replacing traditional, scale-limiting charts with a side-by-side horizontal asset layout solved the issues I had with visibility. It preserved the rare $0.6\%$ tiers while cleanly handling the massive $50\%$ baseline categories on a single, readable axis.
 
-Ultimately, this dashboard proves that relying on raw data totals creates analytical bias. Moving forward, this framework can be easily scaled or unioned with additional volume data to track long-term distribution variance and/or variance normalization over time.
+Ultimately, this dashboard proves that relying on raw data totals creates analytical bias. I underperformed in the Rare tier, but that was equally compensated (at least, percentage-wise) in the higher rarity tiers of Showcases. 
+
+Moving forward, this framework can be easily scaled or unioned with additional volume data to track long-term distribution variance and/or variance normalization over time. 
 
 ---
 ## **Limitations**
