@@ -33,7 +33,7 @@ To find out, I wanted to:
 Going into this analysis, my baseline assumption was that my personal results would land **just below the official statistical average** in terms of pure yield. 
 
 ### Reasonings:
-* **The "Feel" of the Pulls:** Based on comparisons of videos where fellow players opened similar amounts of product, the raw frequency of high-tier hits felt slightly lower than commercial baseline expectations. 
+* **The "Feel" of the Pulls:** Based on comparisons of online videos where fellow players opened similar amounts of product, the raw frequency of high-tier hits felt slightly lower than commercial baseline expectations. 
 
 ---
 ## **Tools Used**
@@ -51,9 +51,9 @@ Going into this analysis, my baseline assumption was that my personal results wo
 ---
 ## **Key Insights**
 * When it came to the guaranteed portions of each pack, the numbers lined up perfectly e.g. Common, Uncommon, Inforamtional Inserts, and Tokens/Runes.
-* On the Rares, there is a difference of -0.44%.
-* On the Epics, there is a  difference of -0.01%. (Likely a rounding error)
-* On the Showcases, there is a difference of +.44%
+* Rares: difference of -0.44%.
+* Epics: difference of -0.01%. (Likely my own rounding error)
+* Showcases: difference of +.44%.
 ---
 ## **Dashboards**
 <img width="856" height="1173" alt="image" src="https://github.com/user-attachments/assets/47902474-f330-487a-8f82-9317dff506aa" />
@@ -76,5 +76,3 @@ Ultimately, this dashboard proves that relying on raw data totals creates analyt
 * Sample Size: The data reflects a localized sample (672 total cards across 2 boxes). While this is no issue for personal analysis, it is relatively narrow compared to total commercial volume, meaning there is a certain degree of individual box variance.
 * Data Limitations: Input data was recorded manually from live pull results, some margin of error from human data entry.
 * Batch Variance: I sourced both of my Riftbound Unleashed boxes from the same retail store. However, there is no way for me to verify if the boxes originated from the same master case.
-* Ecosystem Changes: Unlike previous sets (Origins, Spiritforged), the Unleashed set, introduces a brand-new "Ultimate" rarity tier. This greatly changed the baseline distribution of rarities, making historical data comparisons irrelevant.
-  -(https://riftbound.leagueoflegends.com/en-us/news/announcements/the-unleashed-overview/)
