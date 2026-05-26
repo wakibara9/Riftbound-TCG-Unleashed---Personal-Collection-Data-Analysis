@@ -5,7 +5,7 @@ A data analysis project evaluating card rarity pull rates and distribution varia
 ## Baseline Context
 
 I opened 2 boxes, with each box containing 24 packs. Each pack is comprised of 14 cards.
-To evaluate personal pull variance, the project references the official distribution matrix per pack, box, and case as established by the publisher (Riot Games). 
+To evaluate personal pull variance, the project references the official distribution matrix per pack and per box as established by the publisher (Riot Games). 
 
 ### Official Rarity Rates
 
