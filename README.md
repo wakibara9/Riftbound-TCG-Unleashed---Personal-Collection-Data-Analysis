@@ -20,7 +20,7 @@ To evaluate personal pull variance, the project references the official distribu
 | **Overnumbered Signature / Ultimate** | 1:360 packs | 0.06 per box *(~1 hit every 15 boxes)* |
 
 > ***Note on Ultimate Rarity:** These baselines reflect the updated structural shifts introduced in the *Unleashed* set. The introduction of the Ultimate tier explicitly compresses the distribution margins of legacy sets like *Origins* and *Spiritforged*.
->> Verbatim from Riftbound: "Note that packs can only ever have up to one Ultimate Rare card, they will appear in < 0.1% of packs. Pack contents are randomized during manufacturing. Any stated appearance rates reflect averages across the print run and are not guarantees of appearance in booster packs or booster displays." (https://riftbound.leagueoflegends.com/en-us/news/announcements/the-unleashed-overview/)
+>> Verbatim from the Publisher: "Note that packs can only ever have up to one Ultimate Rare card, they will appear in < 0.1% of packs. Pack contents are randomized during manufacturing. Any stated appearance rates reflect averages across the print run and are not guarantees of appearance in booster packs or booster displays." (https://riftbound.leagueoflegends.com/en-us/news/announcements/the-unleashed-overview/)
 ---
 ## **Motivation**
 I started this project to answer a simple curiosity: Did I actually beat the odds on my recent card pulls? 
