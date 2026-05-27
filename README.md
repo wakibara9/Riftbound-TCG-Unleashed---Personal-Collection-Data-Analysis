@@ -13,15 +13,18 @@ To evaluate personal pull variance, the project references the official distribu
 | :--- | :--- | :--- |
 | **Common** | 7 per pack | 168 per box |
 | **Uncommon** | 3 per pack | 72 per box |
-| **Informational Insert** | 1 per pack | 48 per box |
-| **Token/Rune** | 1 per pack | 48 per box |
-| **Rare** | ~2 per pack | ~41.6 per box |
+| **Informational Insert** | 1 per pack | 24 per box |
+| **Token/Rune** | 1 per pack | 24 per box |
+| **Foil Slot*** | 1 per pack | 24 per box |
+| **Rare** | 2 per pack | ~41.6 per box |
 | **Epic** | 1:4 packs | 6 per box |
 | **Alternate Art** | 1:12 packs | 2 per box |
 | **Overnumbered (ON)** | 1:36 packs | 0.66 per box *(~2 hits every 3 boxes)* |
-| **Overnumbered Signature / Ultimate** | 1:360 packs | 0.06 per box *(~1 hit every 15 boxes)* |
+| **Overnumbered Signature / Ultimate**** | 1:360 packs | 0.06 per box *(~1 hit every 15 boxes)* |
 
-> ***Note on Ultimate Rarity:** These baselines reflect the updated structural shifts introduced in the *Unleashed* set. The introduction of the Ultimate tier explicitly compresses the distribution margins of legacy sets like *Origins* and *Spiritforged*.
+> *Foil slot can be a Common, Uncommon, Rare, or Epic rarity card.
+
+> ****Note on Ultimate Rarity:** These baselines reflect the updated structural shifts introduced in the *Unleashed* set. The introduction of the Ultimate tier explicitly compresses the distribution margins of legacy sets like *Origins* and *Spiritforged*.
 >> Verbatim from the Publisher: "Note that packs can only ever have up to one Ultimate Rare card, they will appear in < 0.1% of packs. Pack contents are randomized during manufacturing. Any stated appearance rates reflect averages across the print run and are not guarantees of appearance in booster packs or booster displays." (https://riftbound.leagueoflegends.com/en-us/news/announcements/the-unleashed-overview/)
 ---
 ## **Motivation**
