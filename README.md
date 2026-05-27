@@ -44,7 +44,7 @@ Going into this analysis, my baseline assumption was that my personal results wo
 * Counted and organized cards from my personal collection
 * Organized by cards by rarity
 * Aggregated and analyzed data within Excel
-* Calculated average percentages based on publicly disclosed pull rates. (https://riftbound.gg/riftbound-card-rarity-guide-pull-rates/)
+* Calculated average percentages based on publicly disclosed pull rates. (https://riftbound.leagueoflegends.com/en-us/news/announcements/collectability-in-riftbound-origins/)
 * Calculated my personal percentages
 * Connected Excel worksheet to Tableau
 * Created visualizations of my analysis to communicate insights
