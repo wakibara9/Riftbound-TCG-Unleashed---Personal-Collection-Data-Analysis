@@ -13,6 +13,8 @@ To evaluate personal pull variance, the project references the official distribu
 | :--- | :--- | :--- |
 | **Common** | 7 per pack | 168 per box |
 | **Uncommon** | 3 per pack | 72 per box |
+| **Informational Insert** | 1 per pack | 48 per box |
+| **Token/Rune** | 1 per pack | 48 per box |
 | **Rare** | ~2 per pack | ~41.6 per box |
 | **Epic** | 1:4 packs | 6 per box |
 | **Alternate Art** | 1:12 packs | 2 per box |
